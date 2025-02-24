@@ -1,4 +1,4 @@
-import java.util.*;
+
 class Diffofsum{
 		public static int dofsum(int n, int m)
 		{
