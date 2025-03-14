@@ -1,4 +1,7 @@
- // if(d > n)
+for(int i=0;i<arr.length;i++)
         // {
-        //     d = n % d;
+        //     if(arr[i]<max && arr[i] > second)
+        //     {
+        //         second = arr[i];
+        //     }
         // }
